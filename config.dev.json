@@ -1,6 +1,6 @@
 {
   "facebookAccount": {
-    "email": "kuraikokoro60@gmail.com",
+    "email": "iajunior506@gmail.com",
     "password": "",
     "2FASecret": "",
     "i_user": "",
@@ -17,17 +17,16 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61556172651835",
-    "61562378213770",
-    "61559323114919"
+    "100052648010710",
+    "61568308253610"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "*☆A̲S̲S̲I̲S̲T̲A̲N̲T̲☆S̲H̲I̲Z̲U̲K̲A̲☆J̲U̲N̲I̲O̲R̲☆*",
-  "prefix": "-",
+  "nickNameBot": "★𝑻𝑰𝑻𝑨𝑵𝑼𝑺 𝑷𝑹𝑰𝑴𝑬★",
+  "prefix": "★",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
